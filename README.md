@@ -1,2 +1,2 @@
 # SOS_Game
-My first attempt at making a SOS game
+## My first attempt at making a SOS game
